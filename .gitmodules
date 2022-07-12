@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DMRScan"]
-	path = DMRScan
-	url = https://github.com/christpa/dmrscan
-	shallow = true
-	registered = true
